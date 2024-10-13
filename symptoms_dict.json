@@ -1,0 +1,72 @@
+{
+    "Symptom1": {
+        "Fever": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom2": {
+        "Cough": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom3": {
+        "Cold": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom4": {
+        "Text": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom5": {
+        "Body Ache": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom6": {
+        "Shivering": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom7": {
+        "Head Ache": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom8": {
+        "Nausia": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom9": {
+        "Sickness": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    },
+    "Symptom10": {
+        "Vertigo": [
+            "Mild",
+            "Low",
+            "High"
+        ]
+    }
+}
